@@ -29,6 +29,6 @@
 
 [github repo](https://github.com/bweb85/README-generator)
 
-[deployed page](https://bweb85.github.io/README-generator/)
+[Walkthrough Video](https://drive.google.com/file/d/16Bhb0XGBEMpY1P9FuerIBBshZDUl1ycS/view?usp=sharing)
 
 
