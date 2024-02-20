@@ -35,6 +35,16 @@ function init() {
       },
       {
         type: 'input',
+        name: 'year',
+        message: 'What year is the copyright? Format YYYY',
+      },
+      {
+        type: 'input',
+        name: 'name',
+        message: 'What is the name of person who holds the copyright? ',
+      },
+      {
+        type: 'input',
         name: 'contributors',
         message: 'Who has contributed to your repo? Include links to their github profiles',
       },
@@ -129,7 +139,7 @@ function init() {
         The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the FreeBSD Project.`;
     } else if (license === `Boost`) {
         boilerplate = 
-        `Permission is hereby granted, free of charge, to any person or organization
+        clear`Permission is hereby granted, free of charge, to any person or organization
         obtaining a copy of the software and accompanying documentation covered by
         this license (the "Software") to use, reproduce, display, distribute,
         execute, and transmit the Software, and to prepare derivative works of the

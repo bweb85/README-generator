@@ -4,12 +4,12 @@ function generateMarkdown(data) {
 ${data.badge}
   
 **Table of Contents**
-     *[Description](#description) 
-     *[Installation](#installation)
-     *[Usage](#usage)
-     *[License](#license)
-     *[Contributors](#contributors)
-     *[Questions](#questions)
+     * [Description](#description) 
+     * [Installation](#installation)
+     * [Usage](#usage)
+     * [License](#license)
+     * [Contributors](#contributors)
+     * [Questions](#questions)
 
 ## Description 
 ${data.description}
@@ -18,12 +18,12 @@ ${data.install}
 ## Usage
 ${data.usage}
 ## License
-Copyright <YEAR> <COPYRIGHT HOLDER>
+Copyright ${data.year} ${data.name}
 ${data.boilerplate} 
 ## Contributors
 ${data.contributors}
 ## Questions
-[github](${data.creator})
+[Link to github profile](${data.creator})
 ${data.questions}
   `;
   }

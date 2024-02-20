@@ -1,22 +1,22 @@
-# gg
+# README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 **Table of Contents**
-     *[Description](#description) 
-     *[Installation](#installation)
-     *[Usage](#usage)
-     *[License](#license)
-     *[Contributors](#contributors)
-     *[Questions](#questions)
+     * [Description](#description) 
+     * [Installation](#installation)
+     * [Usage](#usage)
+     * [License](#license)
+     * [Contributors](#contributors)
+     * [Questions](#questions)
 
 ## Description 
-ww
+Generates a formatted README.md from the command line
 ## Installation
-jj
+inquirer
 ## Usage
-xx
+Use from the commandline
 ## License
-Copyright <YEAR> <COPYRIGHT HOLDER>
+Copyright 2023 Rebecca Webster
 Permission is hereby granted, free of charge, to any person obtaining a copy of
             this software and associated documentation files (the "Software"), to deal in
             the Software without restriction, including without limitation the rights to
@@ -35,8 +35,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of
             OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
             SOFTWARE. 
 ## Contributors
-oo
+no other contributors
 ## Questions
-[github](dfd)
-jj
+[Link to github profile](https://github.com/bweb85)
+contact bwe@bwe replies will be within 5 days
   
